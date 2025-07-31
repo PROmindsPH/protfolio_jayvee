@@ -1,1 +1,1 @@
-<p align="center"><img src="images/jayveeLogo_WNoBG.png">Portfolio_Jayvee</p>
+<p align="center"><img src="public/images/images/jayveeLogo_WNoBG.png">Portfolio_Jayvee</p>

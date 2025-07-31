@@ -53,7 +53,7 @@
 <section class="flex flex-col md:flex-row items-center justify-between px-4 md:px-8 mt-6">
     <div class="w-full md:w-1/2 flex flex-col justify-center items-center text-center space-y-1">
         <h2 class="text-3xl md:text-4xl">Hello. 👋</h2>
-        <h1 class="text-4xl md:text-5xl font-bold">I'm Vince</h1>
+        <h1 class="text-4xl md:text-5xl font-bold">I'm John Vince</h1>
         <p class="text-xl md:text-2xl font-semibold">Software Engineer /</p>
         <p class="text-xl md:text-2xl font-semibold">Data Analyst /</p>
         <p class="text-xl md:text-2xl font-semibold">Virtual Assistant</p>

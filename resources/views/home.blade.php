@@ -9,7 +9,7 @@
     <style>[x-cloak] { display: none !important; }</style>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body class="bg-[#0f172a] text-white font-sans pt-">
+<body class="bg-[#0f172a] text-white font-sans pt-12">
 
 <!-- NAVBAR -->
 <nav class="fixed top-0 w-full z-30 bg-[#0f172a] shadow-md text-white text-base md:text-lg" x-data="{ open: false }">

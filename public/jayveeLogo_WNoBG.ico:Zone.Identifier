@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/6792422b-8aa2-4fb8-aba0-377befa20ed9/jayveeLogo_WNoBG.ico?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250729%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250729T174317Z&X-Amz-Expires=86400&X-Amz-Signature=960df008c9a9aeb2d26495ff1d811f316cd303a120977661104c9d7c07627318&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22jayveeLogo_WNoBG.ico%22&response-content-type=image%2Fvnd.microsoft.icon&x-id=GetObject
